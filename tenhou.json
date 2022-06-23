@@ -1,8 +1,6 @@
 {
 
   "ver":1.0,
-  "se":{{
-  "ver":1.0,
   "se":{
     "3":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/countdown5.mp3"},
     "25":{"url":"https://github.com/dweebnormal/dweebnormal/blob/main/tenhouse/act_pon.mp3?raw=true"},
@@ -19,12 +17,5 @@
     "36":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/beijianshahezi/act_tumo.mp3"},
     "40":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/winlose.mp3"},
     "41":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/yakuman.mp3"}
-  }
-}
-  
-    
-    
-   
-    
   }
 }
